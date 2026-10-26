@@ -1,0 +1,192 @@
+{
+  "dungeons": [
+    {
+      "name": "Byalan",
+      "city": "izlude",
+      "entry": "iz_dun00",
+      "maps": [
+        "iz_dun00",
+        "iz_dun01",
+        "iz_dun02",
+        "iz_dun03",
+        "iz_dun04",
+        "iz_dun05"
+      ],
+      "boss_map": null,
+      "deepest_map": "iz_dun05",
+      "permit_item": 200,
+      "map_item": 220,
+      "compass_item": 240
+    },
+    {
+      "name": "Payon Cave",
+      "city": "payon",
+      "entry": "pay_dun00",
+      "maps": [
+        "pay_dun00",
+        "pay_dun01",
+        "pay_dun02",
+        "pay_dun03",
+        "pay_dun04"
+      ],
+      "boss_map": "pay_dun04",
+      "deepest_map": "pay_dun04",
+      "permit_item": 201,
+      "map_item": 221,
+      "compass_item": 241
+    },
+    {
+      "name": "Culvert",
+      "city": "prontera",
+      "entry": "prt_sewb1",
+      "maps": [
+        "prt_sewb1",
+        "prt_sewb2",
+        "prt_sewb3",
+        "prt_sewb4"
+      ],
+      "boss_map": null,
+      "deepest_map": "prt_sewb4",
+      "permit_item": 202,
+      "map_item": 222,
+      "compass_item": 242
+    },
+    {
+      "name": "Prontera Maze",
+      "city": "prontera",
+      "entry": "prt_maze01",
+      "maps": [
+        "prt_maze01",
+        "prt_maze02",
+        "prt_maze03"
+      ],
+      "boss_map": null,
+      "deepest_map": "prt_maze03",
+      "permit_item": 203,
+      "map_item": 223,
+      "compass_item": 243
+    },
+    {
+      "name": "Pyramid",
+      "city": "morocc",
+      "entry": "moc_pryd01",
+      "maps": [
+        "moc_pryd01",
+        "moc_pryd02",
+        "moc_pryd03",
+        "moc_pryd04",
+        "moc_pryd05",
+        "moc_pryd06",
+        "moc_prydb1"
+      ],
+      "boss_map": null,
+      "deepest_map": "moc_pryd06",
+      "permit_item": 204,
+      "map_item": 224,
+      "compass_item": 244
+    },
+    {
+      "name": "Nightmare Pyramid",
+      "city": "morocc",
+      "entry": "moc_prydn1",
+      "maps": [
+        "moc_prydn1",
+        "moc_prydn2"
+      ],
+      "boss_map": null,
+      "deepest_map": "moc_prydn2",
+      "permit_item": 205,
+      "map_item": 225,
+      "compass_item": 245
+    },
+    {
+      "name": "Sphinx",
+      "city": "morocc",
+      "entry": "in_sphinx1",
+      "maps": [
+        "in_sphinx1",
+        "in_sphinx2",
+        "in_sphinx3",
+        "in_sphinx4",
+        "in_sphinx5"
+      ],
+      "boss_map": null,
+      "deepest_map": "in_sphinx5",
+      "permit_item": 206,
+      "map_item": 226,
+      "compass_item": 246
+    },
+    {
+      "name": "Ant Hell",
+      "city": "morocc",
+      "entry": "anthell01",
+      "maps": [
+        "anthell01",
+        "anthell02"
+      ],
+      "boss_map": null,
+      "deepest_map": "anthell02",
+      "permit_item": 207,
+      "map_item": 227,
+      "compass_item": 247
+    },
+    {
+      "name": "Geffen Dungeon",
+      "city": "geffen",
+      "entry": "gef_dun00",
+      "maps": [
+        "gef_dun00",
+        "gef_dun01",
+        "gef_dun02"
+      ],
+      "boss_map": null,
+      "deepest_map": "gef_dun02",
+      "permit_item": 208,
+      "map_item": 228,
+      "compass_item": 248
+    },
+    {
+      "name": "Orc Dungeon",
+      "city": "geffen",
+      "entry": "orcsdun01",
+      "maps": [
+        "orcsdun01",
+        "orcsdun02"
+      ],
+      "boss_map": null,
+      "deepest_map": "orcsdun02",
+      "permit_item": 209,
+      "map_item": 229,
+      "compass_item": 249
+    },
+    {
+      "name": "Sunken Ship",
+      "city": "alberta",
+      "entry": "treasure01",
+      "maps": [
+        "treasure01",
+        "treasure02"
+      ],
+      "boss_map": null,
+      "deepest_map": "treasure02",
+      "permit_item": 210,
+      "map_item": 230,
+      "compass_item": 250
+    },
+    {
+      "name": "Mjolnir Mines",
+      "city": "shared",
+      "entry": "mjo_dun01",
+      "maps": [
+        "mjo_dun01",
+        "mjo_dun02",
+        "mjo_dun03"
+      ],
+      "boss_map": null,
+      "deepest_map": "mjo_dun03",
+      "permit_item": 211,
+      "map_item": 231,
+      "compass_item": 251
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+name: Iren
+game: Ragnarok Online
+
+Ragnarok Online:
+  difficulty: mid
+  autoloot: true
+  randomize_maps: true
+  dungeon_gating: true
+  campaign: 'off'
+  goal: complete_jobs
+  trap_chance: 20

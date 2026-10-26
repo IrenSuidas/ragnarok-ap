@@ -1,0 +1,1811 @@
+[
+  {
+    "map": "alb2trea",
+    "x": 85,
+    "y": 107,
+    "npc_name": "Wanderer#AP_alb2trea",
+    "cities": [
+      "alberta"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/treasure.txt",
+      "portal": "tre001",
+      "map": "treasure01"
+    }
+  },
+  {
+    "map": "alb_ship",
+    "x": 26,
+    "y": 168,
+    "npc_name": "Wanderer#AP_alb_ship",
+    "cities": [
+      "alberta"
+    ],
+    "source": {
+      "file": "npc/region/warps/cities/alberta.txt",
+      "portal": "alb03",
+      "map": "alberta"
+    }
+  },
+  {
+    "map": "alberta",
+    "x": 19,
+    "y": 233,
+    "npc_name": "Wanderer#AP_alberta",
+    "cities": [
+      "alberta"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/payon_fild.txt",
+      "portal": "payf005",
+      "map": "pay_fild03"
+    }
+  },
+  {
+    "map": "alberta_in",
+    "x": 18,
+    "y": 141,
+    "npc_name": "Wanderer#AP_alberta_in",
+    "cities": [
+      "alberta"
+    ],
+    "source": {
+      "file": "npc/region/warps/cities/alberta.txt",
+      "portal": "alb07",
+      "map": "alberta"
+    }
+  },
+  {
+    "map": "anthell01",
+    "x": 35,
+    "y": 262,
+    "npc_name": "Wanderer#AP_anthell01",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/anthell.txt",
+      "portal": "moc_ant1-1",
+      "map": "cmd_fild08"
+    }
+  },
+  {
+    "map": "anthell02",
+    "x": 34,
+    "y": 263,
+    "npc_name": "Wanderer#AP_anthell02",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/anthell.txt",
+      "portal": "ant01",
+      "map": "anthell01"
+    }
+  },
+  {
+    "map": "cmd_fild08",
+    "x": 75,
+    "y": 42,
+    "npc_name": "Wanderer#AP_cmd_fild08",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/com_fild.txt",
+      "portal": "cmd_fild09-4",
+      "map": "cmd_fild09"
+    }
+  },
+  {
+    "map": "cmd_fild09",
+    "x": 76,
+    "y": 375,
+    "npc_name": "Wanderer#AP_cmd_fild09",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/com_fild.txt",
+      "portal": "cmd_fild08-4",
+      "map": "cmd_fild08"
+    }
+  },
+  {
+    "map": "gef_dun00",
+    "x": 104,
+    "y": 99,
+    "npc_name": "Wanderer#AP_gef_dun00",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/gef_dun.txt",
+      "portal": "gef005",
+      "map": "gef_tower"
+    }
+  },
+  {
+    "map": "gef_dun01",
+    "x": 115,
+    "y": 236,
+    "npc_name": "Wanderer#AP_gef_dun01",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/gef_dun.txt",
+      "portal": "gefd01",
+      "map": "gef_dun00"
+    }
+  },
+  {
+    "map": "gef_dun02",
+    "x": 106,
+    "y": 132,
+    "npc_name": "Wanderer#AP_gef_dun02",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/gef_dun.txt",
+      "portal": "gefd02",
+      "map": "gef_dun01"
+    }
+  },
+  {
+    "map": "gef_fild00",
+    "x": 46,
+    "y": 199,
+    "npc_name": "Wanderer#AP_gef_fild00",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/warps/cities/geffen.txt",
+      "portal": "gef003",
+      "map": "geffen"
+    }
+  },
+  {
+    "map": "gef_fild01",
+    "x": 19,
+    "y": 102,
+    "npc_name": "Wanderer#AP_gef_fild01",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "geff01-1",
+      "map": "gef_fild09"
+    }
+  },
+  {
+    "map": "gef_fild02",
+    "x": 17,
+    "y": 78,
+    "npc_name": "Wanderer#AP_gef_fild02",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "geff03-1",
+      "map": "gef_fild03"
+    }
+  },
+  {
+    "map": "gef_fild03",
+    "x": 21,
+    "y": 52,
+    "npc_name": "Wanderer#AP_gef_fild03",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "geff05-1",
+      "map": "gef_fild10"
+    }
+  },
+  {
+    "map": "gef_fild04",
+    "x": 19,
+    "y": 309,
+    "npc_name": "Wanderer#AP_gef_fild04",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "geff06-1",
+      "map": "gef_fild05"
+    }
+  },
+  {
+    "map": "gef_fild05",
+    "x": 18,
+    "y": 201,
+    "npc_name": "Wanderer#AP_gef_fild05",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "geff07-1",
+      "map": "gef_fild06"
+    }
+  },
+  {
+    "map": "gef_fild06",
+    "x": 218,
+    "y": 20,
+    "npc_name": "Wanderer#AP_gef_fild06",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "geff09-1",
+      "map": "gef_fild08"
+    }
+  },
+  {
+    "map": "gef_fild07",
+    "x": 21,
+    "y": 191,
+    "npc_name": "Wanderer#AP_gef_fild07",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "geff10-1",
+      "map": "gef_fild08"
+    }
+  },
+  {
+    "map": "gef_fild08",
+    "x": 200,
+    "y": 352,
+    "npc_name": "Wanderer#AP_gef_fild08",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "geff09",
+      "map": "gef_fild06"
+    }
+  },
+  {
+    "map": "gef_fild09",
+    "x": 27,
+    "y": 56,
+    "npc_name": "Wanderer#AP_gef_fild09",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "geff18",
+      "map": "gef_fild13"
+    }
+  },
+  {
+    "map": "gef_fild10",
+    "x": 65,
+    "y": 335,
+    "npc_name": "Wanderer#AP_gef_fild10",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/orcsdun.txt",
+      "portal": "orc005",
+      "map": "in_orcs01"
+    }
+  },
+  {
+    "map": "gef_fild11",
+    "x": 114,
+    "y": 360,
+    "npc_name": "Wanderer#AP_gef_fild11",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "geff12",
+      "map": "gef_fild10"
+    }
+  },
+  {
+    "map": "gef_fild13",
+    "x": 41,
+    "y": 369,
+    "npc_name": "Wanderer#AP_gef_fild13",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "geff13",
+      "map": "gef_fild07"
+    }
+  },
+  {
+    "map": "gef_tower",
+    "x": 38,
+    "y": 157,
+    "npc_name": "Wanderer#AP_gef_tower",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/gef_dun.txt",
+      "portal": "geft08-1",
+      "map": "gef_tower"
+    }
+  },
+  {
+    "map": "geffen",
+    "x": 29,
+    "y": 119,
+    "npc_name": "Wanderer#AP_geffen",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "gef025",
+      "map": "gef_fild07"
+    }
+  },
+  {
+    "map": "geffen_in",
+    "x": 26,
+    "y": 34,
+    "npc_name": "Wanderer#AP_geffen_in",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/warps/cities/geffen.txt",
+      "portal": "gef12",
+      "map": "geffen_in"
+    }
+  },
+  {
+    "map": "in_moc_16",
+    "x": 18,
+    "y": 11,
+    "npc_name": "Wanderer#AP_in_moc_16",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/other/jobquests.txt",
+      "portal": "16_to_guild",
+      "map": "moc_fild16"
+    }
+  },
+  {
+    "map": "in_orcs01",
+    "x": 29,
+    "y": 114,
+    "npc_name": "Wanderer#AP_in_orcs01",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "gef019",
+      "map": "gef_fild10"
+    }
+  },
+  {
+    "map": "in_sphinx1",
+    "x": 80,
+    "y": 189,
+    "npc_name": "Wanderer#AP_in_sphinx1",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/in_sphinx.txt",
+      "portal": "sphx01-1",
+      "map": "in_sphinx2"
+    }
+  },
+  {
+    "map": "in_sphinx2",
+    "x": 149,
+    "y": 81,
+    "npc_name": "Wanderer#AP_in_sphinx2",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/in_sphinx.txt",
+      "portal": "sphx01",
+      "map": "in_sphinx1"
+    }
+  },
+  {
+    "map": "in_sphinx3",
+    "x": 12,
+    "y": 71,
+    "npc_name": "Wanderer#AP_in_sphinx3",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/in_sphinx.txt",
+      "portal": "sphx05-1",
+      "map": "in_sphinx4"
+    }
+  },
+  {
+    "map": "in_sphinx4",
+    "x": 10,
+    "y": 222,
+    "npc_name": "Wanderer#AP_in_sphinx4",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/in_sphinx.txt",
+      "portal": "sphx05",
+      "map": "in_sphinx3"
+    }
+  },
+  {
+    "map": "in_sphinx5",
+    "x": 11,
+    "y": 18,
+    "npc_name": "Wanderer#AP_in_sphinx5",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/in_sphinx.txt",
+      "portal": "sphx07-1",
+      "map": "in_sphinx5"
+    }
+  },
+  {
+    "map": "iz_dun00",
+    "x": 39,
+    "y": 46,
+    "npc_name": "Wanderer#AP_iz_dun00",
+    "cities": [
+      "izlude"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/iz_dun.txt",
+      "portal": "izd03-1",
+      "map": "iz_dun01"
+    }
+  },
+  {
+    "map": "iz_dun01",
+    "x": 41,
+    "y": 37,
+    "npc_name": "Wanderer#AP_iz_dun01",
+    "cities": [
+      "izlude"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/iz_dun.txt",
+      "portal": "izd03",
+      "map": "iz_dun00"
+    }
+  },
+  {
+    "map": "iz_dun02",
+    "x": 236,
+    "y": 204,
+    "npc_name": "Wanderer#AP_iz_dun02",
+    "cities": [
+      "izlude"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/iz_dun.txt",
+      "portal": "izd04",
+      "map": "iz_dun01"
+    }
+  },
+  {
+    "map": "iz_dun03",
+    "x": 32,
+    "y": 63,
+    "npc_name": "Wanderer#AP_iz_dun03",
+    "cities": [
+      "izlude"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/iz_dun.txt",
+      "portal": "izd05",
+      "map": "iz_dun02"
+    }
+  },
+  {
+    "map": "iz_dun04",
+    "x": 26,
+    "y": 27,
+    "npc_name": "Wanderer#AP_iz_dun04",
+    "cities": [
+      "izlude"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/iz_dun.txt",
+      "portal": "izd06",
+      "map": "iz_dun03"
+    }
+  },
+  {
+    "map": "izlu2dun",
+    "x": 108,
+    "y": 88,
+    "npc_name": "Wanderer#AP_izlu2dun",
+    "cities": [
+      "izlude"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/iz_dun.txt",
+      "portal": "izd01-1",
+      "map": "iz_dun00"
+    }
+  },
+  {
+    "map": "izlude",
+    "x": 24,
+    "y": 98,
+    "npc_name": "Wanderer#AP_izlude",
+    "cities": [
+      "izlude"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/cities/izlude.txt",
+      "portal": "prtf005",
+      "map": "prt_fild08"
+    }
+  },
+  {
+    "map": "izlude_in",
+    "x": 63,
+    "y": 169,
+    "npc_name": "Wanderer#AP_izlude_in",
+    "cities": [
+      "izlude"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/cities/izlude.txt",
+      "portal": "w219",
+      "map": "izlude_in"
+    }
+  },
+  {
+    "map": "mjo_dun01",
+    "x": 17,
+    "y": 283,
+    "npc_name": "Wanderer#AP_mjo_dun01",
+    "cities": [
+      "geffen",
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/mjo_dun.txt",
+      "portal": "mjod01-1",
+      "map": "mjo_dun02"
+    }
+  },
+  {
+    "map": "mjo_dun02",
+    "x": 31,
+    "y": 23,
+    "npc_name": "Wanderer#AP_mjo_dun02",
+    "cities": [
+      "geffen",
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/mjo_dun.txt",
+      "portal": "mjod02-1",
+      "map": "mjo_dun03"
+    }
+  },
+  {
+    "map": "mjo_dun03",
+    "x": 302,
+    "y": 262,
+    "npc_name": "Wanderer#AP_mjo_dun03",
+    "cities": [
+      "geffen",
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/mjo_dun.txt",
+      "portal": "mjod02",
+      "map": "mjo_dun02"
+    }
+  },
+  {
+    "map": "mjolnir_01",
+    "x": 284,
+    "y": 21,
+    "npc_name": "Wanderer#AP_mjolnir_01",
+    "cities": [
+      "geffen",
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "gef016",
+      "map": "gef_fild04"
+    }
+  },
+  {
+    "map": "mjolnir_02",
+    "x": 31,
+    "y": 258,
+    "npc_name": "Wanderer#AP_mjolnir_02",
+    "cities": [
+      "geffen",
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/fields/mtmjolnir.txt",
+      "portal": "mjol01",
+      "map": "mjolnir_01"
+    }
+  },
+  {
+    "map": "mjolnir_03",
+    "x": 24,
+    "y": 258,
+    "npc_name": "Wanderer#AP_mjolnir_03",
+    "cities": [
+      "geffen",
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/fields/mtmjolnir.txt",
+      "portal": "mjol02",
+      "map": "mjolnir_02"
+    }
+  },
+  {
+    "map": "mjolnir_04",
+    "x": 125,
+    "y": 208,
+    "npc_name": "Wanderer#AP_mjolnir_04",
+    "cities": [
+      "geffen",
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/fields/mtmjolnir.txt",
+      "portal": "mjol05",
+      "map": "mjolnir_03"
+    }
+  },
+  {
+    "map": "mjolnir_05",
+    "x": 19,
+    "y": 171,
+    "npc_name": "Wanderer#AP_mjolnir_05",
+    "cities": [
+      "geffen",
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/fields/mtmjolnir.txt",
+      "portal": "mjol07",
+      "map": "mjolnir_04"
+    }
+  },
+  {
+    "map": "mjolnir_06",
+    "x": 21,
+    "y": 331,
+    "npc_name": "Wanderer#AP_mjolnir_06",
+    "cities": [
+      "geffen",
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "gef017",
+      "map": "gef_fild04"
+    }
+  },
+  {
+    "map": "mjolnir_07",
+    "x": 19,
+    "y": 377,
+    "npc_name": "Wanderer#AP_mjolnir_07",
+    "cities": [
+      "geffen",
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/fields/mtmjolnir.txt",
+      "portal": "mjol10",
+      "map": "mjolnir_06"
+    }
+  },
+  {
+    "map": "mjolnir_08",
+    "x": 32,
+    "y": 346,
+    "npc_name": "Wanderer#AP_mjolnir_08",
+    "cities": [
+      "geffen",
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/fields/mtmjolnir.txt",
+      "portal": "mjol13",
+      "map": "mjolnir_07"
+    }
+  },
+  {
+    "map": "mjolnir_09",
+    "x": 33,
+    "y": 248,
+    "npc_name": "Wanderer#AP_mjolnir_09",
+    "cities": [
+      "geffen",
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/prontera_fild.txt",
+      "portal": "prtf008",
+      "map": "prt_fild00"
+    }
+  },
+  {
+    "map": "mjolnir_10",
+    "x": 18,
+    "y": 258,
+    "npc_name": "Wanderer#AP_mjolnir_10",
+    "cities": [
+      "geffen",
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/fields/mtmjolnir.txt",
+      "portal": "mjol15",
+      "map": "mjolnir_08"
+    }
+  },
+  {
+    "map": "mjolnir_11",
+    "x": 23,
+    "y": 220,
+    "npc_name": "Wanderer#AP_mjolnir_11",
+    "cities": [
+      "geffen",
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/fields/mtmjolnir.txt",
+      "portal": "mjol16",
+      "map": "mjolnir_10"
+    }
+  },
+  {
+    "map": "mjolnir_12",
+    "x": 44,
+    "y": 21,
+    "npc_name": "Wanderer#AP_mjolnir_12",
+    "cities": [
+      "geffen",
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/prt_maze.txt",
+      "portal": "mazewarp5137",
+      "map": "prt_maze01"
+    }
+  },
+  {
+    "map": "moc_fild01",
+    "x": 25,
+    "y": 242,
+    "npc_name": "Wanderer#AP_moc_fild01",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/prontera_fild.txt",
+      "portal": "prtf026",
+      "map": "prt_fild09"
+    }
+  },
+  {
+    "map": "moc_fild02",
+    "x": 71,
+    "y": 21,
+    "npc_name": "Wanderer#AP_moc_fild02",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/morroc_fild.txt",
+      "portal": "mocf05-1",
+      "map": "moc_fild13"
+    }
+  },
+  {
+    "map": "moc_fild03",
+    "x": 20,
+    "y": 37,
+    "npc_name": "Wanderer#AP_moc_fild03",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/morroc_fild.txt",
+      "portal": "mocf06-1",
+      "map": "moc_fild13"
+    }
+  },
+  {
+    "map": "moc_fild07",
+    "x": 198,
+    "y": 25,
+    "npc_name": "Wanderer#AP_moc_fild07",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/cities/morroc.txt",
+      "portal": "moc003",
+      "map": "morocc"
+    }
+  },
+  {
+    "map": "moc_fild11",
+    "x": 29,
+    "y": 161,
+    "npc_name": "Wanderer#AP_moc_fild11",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/morroc_fild.txt",
+      "portal": "mocf22-1",
+      "map": "moc_fild12"
+    }
+  },
+  {
+    "map": "moc_fild12",
+    "x": 26,
+    "y": 305,
+    "npc_name": "Wanderer#AP_moc_fild12",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/com_fild.txt",
+      "portal": "cmd_fild08-6",
+      "map": "cmd_fild08"
+    }
+  },
+  {
+    "map": "moc_fild13",
+    "x": 146,
+    "y": 365,
+    "npc_name": "Wanderer#AP_moc_fild13",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/morroc_fild.txt",
+      "portal": "mocf05",
+      "map": "moc_fild02"
+    }
+  },
+  {
+    "map": "moc_fild16",
+    "x": 19,
+    "y": 179,
+    "npc_name": "Wanderer#AP_moc_fild16",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/morroc_fild.txt",
+      "portal": "mocf28-1",
+      "map": "moc_fild17"
+    }
+  },
+  {
+    "map": "moc_fild17",
+    "x": 33,
+    "y": 300,
+    "npc_name": "Wanderer#AP_moc_fild17",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/morroc_fild.txt",
+      "portal": "moc29-1",
+      "map": "moc_fild18"
+    }
+  },
+  {
+    "map": "moc_fild18",
+    "x": 55,
+    "y": 170,
+    "npc_name": "Wanderer#AP_moc_fild18",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/com_fild.txt",
+      "portal": "cmd_fild09-2",
+      "map": "cmd_fild09"
+    }
+  },
+  {
+    "map": "moc_fild19",
+    "x": 71,
+    "y": 167,
+    "npc_name": "Wanderer#AP_moc_fild19",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/cities/morroc.txt",
+      "portal": "moc007",
+      "map": "moc_ruins"
+    }
+  },
+  {
+    "map": "moc_fild20",
+    "x": 36,
+    "y": 177,
+    "npc_name": "Wanderer#AP_moc_fild20",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/morroc_fild.txt",
+      "portal": "mocf23",
+      "map": "moc_fild11"
+    }
+  },
+  {
+    "map": "moc_pryd01",
+    "x": 10,
+    "y": 192,
+    "npc_name": "Wanderer#AP_moc_pryd01",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/moc_pryd.txt",
+      "portal": "mocp01-1",
+      "map": "moc_pryd02"
+    }
+  },
+  {
+    "map": "moc_pryd02",
+    "x": 10,
+    "y": 192,
+    "npc_name": "Wanderer#AP_moc_pryd02",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/moc_pryd.txt",
+      "portal": "mocp01",
+      "map": "moc_pryd01"
+    }
+  },
+  {
+    "map": "moc_pryd03",
+    "x": 12,
+    "y": 18,
+    "npc_name": "Wanderer#AP_moc_pryd03",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/moc_pryd.txt",
+      "portal": "mocp04-1",
+      "map": "moc_pryd04"
+    }
+  },
+  {
+    "map": "moc_pryd04",
+    "x": 12,
+    "y": 18,
+    "npc_name": "Wanderer#AP_moc_pryd04",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/moc_pryd.txt",
+      "portal": "mocp04",
+      "map": "moc_pryd03"
+    }
+  },
+  {
+    "map": "moc_pryd05",
+    "x": 94,
+    "y": 96,
+    "npc_name": "Wanderer#AP_moc_pryd05",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/moc_pryd.txt",
+      "portal": "mocp09-1",
+      "map": "moc_prydb1"
+    }
+  },
+  {
+    "map": "moc_pryd06",
+    "x": 192,
+    "y": 10,
+    "npc_name": "Wanderer#AP_moc_pryd06",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/moc_pryd.txt",
+      "portal": "mocp08",
+      "map": "moc_pryd05"
+    }
+  },
+  {
+    "map": "moc_prydb1",
+    "x": 56,
+    "y": 115,
+    "npc_name": "Wanderer#AP_moc_prydb1",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/moc_pryd.txt",
+      "portal": "mocp12-1",
+      "map": "moc_prydb1"
+    }
+  },
+  {
+    "map": "moc_prydn1",
+    "x": 220,
+    "y": 9,
+    "npc_name": "Wanderer#AP_moc_prydn1",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/dungeons/moc_pryd.txt",
+      "portal": "PyramidsN2-1",
+      "map": "moc_prydn2"
+    }
+  },
+  {
+    "map": "moc_prydn2",
+    "x": 192,
+    "y": 8,
+    "npc_name": "Wanderer#AP_moc_prydn2",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/dungeons/moc_pryd.txt",
+      "portal": "PyramidsN1-2",
+      "map": "moc_prydn1"
+    }
+  },
+  {
+    "map": "moc_ruins",
+    "x": 60,
+    "y": 161,
+    "npc_name": "Wanderer#AP_moc_ruins",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/moc_pryd.txt",
+      "portal": "mocp001",
+      "map": "moc_pryd01"
+    }
+  },
+  {
+    "map": "monk_in",
+    "x": 38,
+    "y": 38,
+    "npc_name": "Wanderer#AP_monk_in",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/prontera_fild.txt",
+      "portal": "monk05-1",
+      "map": "monk_in"
+    }
+  },
+  {
+    "map": "morocc",
+    "x": 27,
+    "y": 164,
+    "npc_name": "Wanderer#AP_morocc",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/morroc_fild.txt",
+      "portal": "mocf004",
+      "map": "moc_fild19"
+    }
+  },
+  {
+    "map": "morocc_in",
+    "x": 20,
+    "y": 161,
+    "npc_name": "Wanderer#AP_morocc_in",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/warps/cities/morroc.txt",
+      "portal": "moc17-1",
+      "map": "morocc_in"
+    }
+  },
+  {
+    "map": "orcsdun01",
+    "x": 32,
+    "y": 170,
+    "npc_name": "Wanderer#AP_orcsdun01",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/orcsdun.txt",
+      "portal": "orc01",
+      "map": "in_orcs01"
+    }
+  },
+  {
+    "map": "orcsdun02",
+    "x": 21,
+    "y": 185,
+    "npc_name": "Wanderer#AP_orcsdun02",
+    "cities": [
+      "geffen"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/orcsdun.txt",
+      "portal": "orc03",
+      "map": "orcsdun01"
+    }
+  },
+  {
+    "map": "pay_arche",
+    "x": 39,
+    "y": 131,
+    "npc_name": "Wanderer#AP_pay_arche",
+    "cities": [
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/pay_dun.txt",
+      "portal": "pay005",
+      "map": "pay_dun00"
+    }
+  },
+  {
+    "map": "pay_dun00",
+    "x": 21,
+    "y": 183,
+    "npc_name": "Wanderer#AP_pay_dun00",
+    "cities": [
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/warps/cities/payon.txt",
+      "portal": "payonwarp048",
+      "map": "pay_arche"
+    }
+  },
+  {
+    "map": "pay_dun01",
+    "x": 19,
+    "y": 33,
+    "npc_name": "Wanderer#AP_pay_dun01",
+    "cities": [
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/pay_dun.txt",
+      "portal": "payd01",
+      "map": "pay_dun00"
+    }
+  },
+  {
+    "map": "pay_dun02",
+    "x": 19,
+    "y": 63,
+    "npc_name": "Wanderer#AP_pay_dun02",
+    "cities": [
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/pay_dun.txt",
+      "portal": "payd02",
+      "map": "pay_dun01"
+    }
+  },
+  {
+    "map": "pay_dun03",
+    "x": 124,
+    "y": 62,
+    "npc_name": "Wanderer#AP_pay_dun03",
+    "cities": [
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/pay_dun.txt",
+      "portal": "payd04-1",
+      "map": "pay_dun04"
+    }
+  },
+  {
+    "map": "pay_fild01",
+    "x": 17,
+    "y": 152,
+    "npc_name": "Wanderer#AP_pay_fild01",
+    "cities": [
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/morroc_fild.txt",
+      "portal": "mocf014",
+      "map": "moc_fild03"
+    }
+  },
+  {
+    "map": "pay_fild02",
+    "x": 83,
+    "y": 382,
+    "npc_name": "Wanderer#AP_pay_fild02",
+    "cities": [
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/payon_fild.txt",
+      "portal": "payf01",
+      "map": "pay_fild01"
+    }
+  },
+  {
+    "map": "pay_fild03",
+    "x": 20,
+    "y": 110,
+    "npc_name": "Wanderer#AP_pay_fild03",
+    "cities": [
+      "alberta",
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/payon_fild.txt",
+      "portal": "payf07",
+      "map": "pay_fild02"
+    }
+  },
+  {
+    "map": "pay_fild04",
+    "x": 20,
+    "y": 165,
+    "npc_name": "Wanderer#AP_pay_fild04",
+    "cities": [
+      "morocc"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/morroc_fild.txt",
+      "portal": "mocf011",
+      "map": "moc_fild01"
+    }
+  },
+  {
+    "map": "pay_fild06",
+    "x": 305,
+    "y": 372,
+    "npc_name": "Wanderer#AP_pay_fild06",
+    "cities": [
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/payon_fild.txt",
+      "portal": "payf09",
+      "map": "pay_fild03"
+    }
+  },
+  {
+    "map": "pay_fild07",
+    "x": 23,
+    "y": 207,
+    "npc_name": "Wanderer#AP_pay_fild07",
+    "cities": [
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/payon_fild.txt",
+      "portal": "payf03",
+      "map": "pay_fild01"
+    }
+  },
+  {
+    "map": "pay_fild08",
+    "x": 20,
+    "y": 74,
+    "npc_name": "Wanderer#AP_pay_fild08",
+    "cities": [
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/warps/cities/payon.txt",
+      "portal": "payonwarp005",
+      "map": "payon"
+    }
+  },
+  {
+    "map": "pay_fild09",
+    "x": 19,
+    "y": 91,
+    "npc_name": "Wanderer#AP_pay_fild09",
+    "cities": [
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/payon_fild.txt",
+      "portal": "payf13",
+      "map": "pay_fild08"
+    }
+  },
+  {
+    "map": "pay_fild10",
+    "x": 19,
+    "y": 290,
+    "npc_name": "Wanderer#AP_pay_fild10",
+    "cities": [
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/payon_fild.txt",
+      "portal": "payf12",
+      "map": "pay_fild07"
+    }
+  },
+  {
+    "map": "payon",
+    "x": 107,
+    "y": 323,
+    "npc_name": "Wanderer#AP_payon",
+    "cities": [
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/warps/cities/payon.txt",
+      "portal": "payonwarp074",
+      "map": "payon_in03"
+    }
+  },
+  {
+    "map": "payon_in01",
+    "x": 10,
+    "y": 14,
+    "npc_name": "Wanderer#AP_payon_in01",
+    "cities": [
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/warps/cities/payon.txt",
+      "portal": "payonwarp022",
+      "map": "payon_in01"
+    }
+  },
+  {
+    "map": "payon_in02",
+    "x": 13,
+    "y": 25,
+    "npc_name": "Wanderer#AP_payon_in02",
+    "cities": [
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/warps/cities/payon.txt",
+      "portal": "payonwarp059",
+      "map": "payon_in02"
+    }
+  },
+  {
+    "map": "payon_in03",
+    "x": 11,
+    "y": 127,
+    "npc_name": "Wanderer#AP_payon_in03",
+    "cities": [
+      "payon"
+    ],
+    "source": {
+      "file": "npc/region/warps/cities/payon.txt",
+      "portal": "payonwarp080",
+      "map": "payon_in03"
+    }
+  },
+  {
+    "map": "prontera",
+    "x": 26,
+    "y": 203,
+    "npc_name": "Wanderer#AP_prontera",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/prontera_fild.txt",
+      "portal": "prtf002",
+      "map": "prt_fild05"
+    }
+  },
+  {
+    "map": "prt_cas",
+    "x": 23,
+    "y": 342,
+    "npc_name": "Wanderer#AP_prt_cas",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/cities/prontera.txt",
+      "portal": "#ep172_prt_to_prt-5",
+      "map": "prt_cas"
+    }
+  },
+  {
+    "map": "prt_church",
+    "x": 27,
+    "y": 19,
+    "npc_name": "Wanderer#AP_prt_church",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/cities/prontera.txt",
+      "portal": "prtch02-1",
+      "map": "prt_church"
+    }
+  },
+  {
+    "map": "prt_fild00",
+    "x": 24,
+    "y": 125,
+    "npc_name": "Wanderer#AP_prt_fild00",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "gef008",
+      "map": "gef_fild00"
+    }
+  },
+  {
+    "map": "prt_fild01",
+    "x": 23,
+    "y": 292,
+    "npc_name": "Wanderer#AP_prt_fild01",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/fields/mtmjolnir.txt",
+      "portal": "mjol011",
+      "map": "mjolnir_09"
+    }
+  },
+  {
+    "map": "prt_fild02",
+    "x": 20,
+    "y": 242,
+    "npc_name": "Wanderer#AP_prt_fild02",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/prontera_fild.txt",
+      "portal": "prtf03",
+      "map": "prt_fild01"
+    }
+  },
+  {
+    "map": "prt_fild03",
+    "x": 23,
+    "y": 249,
+    "npc_name": "Wanderer#AP_prt_fild03",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/prontera_fild.txt",
+      "portal": "prtf07",
+      "map": "prt_fild02"
+    }
+  },
+  {
+    "map": "prt_fild04",
+    "x": 20,
+    "y": 114,
+    "npc_name": "Wanderer#AP_prt_fild04",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "gef010",
+      "map": "gef_fild01"
+    }
+  },
+  {
+    "map": "prt_fild05",
+    "x": 17,
+    "y": 59,
+    "npc_name": "Wanderer#AP_prt_fild05",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/prontera_fild.txt",
+      "portal": "prtf08",
+      "map": "prt_fild04"
+    }
+  },
+  {
+    "map": "prt_fild06",
+    "x": 27,
+    "y": 193,
+    "npc_name": "Wanderer#AP_prt_fild06",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/cities/prontera.txt",
+      "portal": "prt003",
+      "map": "prontera"
+    }
+  },
+  {
+    "map": "prt_fild07",
+    "x": 17,
+    "y": 64,
+    "npc_name": "Wanderer#AP_prt_fild07",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "gef013",
+      "map": "gef_fild02"
+    }
+  },
+  {
+    "map": "prt_fild08",
+    "x": 20,
+    "y": 186,
+    "npc_name": "Wanderer#AP_prt_fild08",
+    "cities": [
+      "izlude",
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/prontera_fild.txt",
+      "portal": "prtf15",
+      "map": "prt_fild07"
+    }
+  },
+  {
+    "map": "prt_fild09",
+    "x": 17,
+    "y": 133,
+    "npc_name": "Wanderer#AP_prt_fild09",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/prontera_fild.txt",
+      "portal": "prtf17-2",
+      "map": "prt_fild10"
+    }
+  },
+  {
+    "map": "prt_fild10",
+    "x": 23,
+    "y": 122,
+    "npc_name": "Wanderer#AP_prt_fild10",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/prontera_fild.txt",
+      "portal": "prtf19-1",
+      "map": "prt_fild11"
+    }
+  },
+  {
+    "map": "prt_fild11",
+    "x": 20,
+    "y": 281,
+    "npc_name": "Wanderer#AP_prt_fild11",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/geffen_fild.txt",
+      "portal": "gef023",
+      "map": "gef_fild11"
+    }
+  },
+  {
+    "map": "prt_in",
+    "x": 34,
+    "y": 65,
+    "npc_name": "Wanderer#AP_prt_in",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/cities/prontera.txt",
+      "portal": "prt18-1",
+      "map": "prt_in"
+    }
+  },
+  {
+    "map": "prt_maze01",
+    "x": 17,
+    "y": 111,
+    "npc_name": "Wanderer#AP_prt_maze01",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/fields/mtmjolnir.txt",
+      "portal": "mjol17",
+      "map": "mjolnir_12"
+    }
+  },
+  {
+    "map": "prt_maze02",
+    "x": 93,
+    "y": 20,
+    "npc_name": "Wanderer#AP_prt_maze02",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/prt_maze.txt",
+      "portal": "mazewarp5105",
+      "map": "prt_maze01"
+    }
+  },
+  {
+    "map": "prt_monk",
+    "x": 25,
+    "y": 248,
+    "npc_name": "Wanderer#AP_prt_monk",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/fields/prontera_fild.txt",
+      "portal": "prtf006",
+      "map": "prt_fild03"
+    }
+  },
+  {
+    "map": "prt_sewb1",
+    "x": 192,
+    "y": 247,
+    "npc_name": "Wanderer#AP_prt_sewb1",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/prt_maze.txt",
+      "portal": "prts01-1",
+      "map": "prt_sewb2"
+    }
+  },
+  {
+    "map": "prt_sewb2",
+    "x": 19,
+    "y": 19,
+    "npc_name": "Wanderer#AP_prt_sewb2",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/prt_maze.txt",
+      "portal": "prts01",
+      "map": "prt_sewb1"
+    }
+  },
+  {
+    "map": "prt_sewb3",
+    "x": 19,
+    "y": 180,
+    "npc_name": "Wanderer#AP_prt_sewb3",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/prt_maze.txt",
+      "portal": "prts05-1",
+      "map": "prt_sewb4"
+    }
+  },
+  {
+    "map": "prt_sewb4",
+    "x": 100,
+    "y": 92,
+    "npc_name": "Wanderer#AP_prt_sewb4",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/prt_maze.txt",
+      "portal": "prts05",
+      "map": "prt_sewb3"
+    }
+  },
+  {
+    "map": "s_atelier",
+    "x": 13,
+    "y": 119,
+    "npc_name": "Wanderer#AP_s_atelier",
+    "cities": [
+      "prontera"
+    ],
+    "source": {
+      "file": "npc/region/re/warps/other/s_workshop.txt",
+      "portal": "s_atelier0005",
+      "map": "prontera"
+    }
+  },
+  {
+    "map": "treasure01",
+    "x": 25,
+    "y": 164,
+    "npc_name": "Wanderer#AP_treasure01",
+    "cities": [
+      "alberta"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/treasure.txt",
+      "portal": "tre04-1",
+      "map": "treasure01"
+    }
+  },
+  {
+    "map": "treasure02",
+    "x": 49,
+    "y": 97,
+    "npc_name": "Wanderer#AP_treasure02",
+    "cities": [
+      "alberta"
+    ],
+    "source": {
+      "file": "npc/region/warps/dungeons/treasure.txt",
+      "portal": "tre14",
+      "map": "treasure02"
+    }
+  }
+]
